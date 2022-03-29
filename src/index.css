@@ -19,9 +19,13 @@
 }
 
 .nomTechno {
-    @apply text-white font-semibold inline-block
+    @apply text-white font-thin inline-block tracking-wider my-4
 }
 
 .technos{
-    @apply hover:scale-110 duration-300
+    @apply inline-block hover:scale-110 duration-300
+}
+
+.experiences {
+    @apply w-full grid grid-cols-2 grid-flow-row sm:grid-cols-4 gap-4 text-center py-8 place-items-center justify-center
 }
