@@ -18,6 +18,7 @@
     margin: 0;
     padding: 0;
     height: 100%;
+    width: 100%;
 }
 
 .elementsNavigation {
@@ -33,7 +34,7 @@
 }
 
 .experiences {
-    @apply w-full grid grid-cols-2 grid-flow-row sm:grid-cols-4 gap-4 text-center py-8 place-items-center justify-center
+    @apply w-full grid grid-cols-2 grid-flow-row sm:grid-cols-4 gap-4 text-center py-4 place-items-center justify-center
 }
 
 .pageProjets {
@@ -45,9 +46,9 @@
 }
 
 .boutonDemo {
-    @apply text-center rounded-lg px-4 py-3 m-2 justify-center bg-white text-gray-700 font-medium text-lg hover:bg-slate-600 hover:text-white duration-200
+    @apply text-center rounded-lg px-4 py-2 m-2 justify-center bg-white text-gray-700 font-medium text-lg hover:bg-slate-600 hover:text-white duration-200
 }
 
 .boutonSourceCode {
-    @apply text-center rounded-lg px-4 py-3 m-2 justify-center bg-white text-gray-700 font-medium text-lg hover:bg-amber-400 hover:text-white duration-200
+    @apply text-center rounded-lg px-4 py-2 m-2 justify-center bg-white text-gray-700 font-medium text-lg hover:bg-amber-400 hover:text-white duration-200
 }

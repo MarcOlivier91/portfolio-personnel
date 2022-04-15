@@ -10,7 +10,7 @@ const Projets = () => {
         <div class='pageProjets'>
           <div className='pb-8'>
             <p class='titrePage'>Mes Projets <span className='font-bold text-amber-300'>.</span></p>
-            <p className='text-2xl font-medium py-4 mb-20'>Vous pouvez voir ici tous mes projets récents ;</p>
+            <p className='text-2xl font-medium py-4 mb-10'>Vous pouvez voir ici tous mes projets récents ;</p>
           </div>
 
           <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-8'>
@@ -25,7 +25,7 @@ const Projets = () => {
                 <a href="/">
                   <button class='boutonDemo'>Démonstration</button>
                 </a>
-                <a href="https://github.com/MarcOlivier91/Future_World_Final">
+                <a href="https://github.com/MarcOlivier91/Projet-Future-World" target="_blank" rel="noopener noreferrer">
                   <button class='boutonSourceCode'>Code Source</button>
                 </a>
               </div>
@@ -38,10 +38,10 @@ const Projets = () => {
               <img className='inset-y-0' src={DragonRush_Img} alt="Projet Future World" />
               <p className='text-center'>Un mini-jeu assez simple type clicker game qui repose sur le calcul et la gestion de données.</p>
               <div className='flex justify-center'>
-                <a href="/">
+                <a href="https://marcolivier91.github.io/DragonRush-ClickerGame/" target="_blank" rel="noopener noreferrer">
                   <button class='boutonDemo'>Démonstration</button>
                 </a>
-                <a href="https://github.com/MarcOlivier91/DragonRush-ClickerGame">
+                <a href="https://github.com/MarcOlivier91/DragonRush-ClickerGame" target="_blank" rel="noopener noreferrer">
                   <button class='boutonSourceCode'>Code Source</button>
                 </a>
               </div>
@@ -59,7 +59,7 @@ const Projets = () => {
                 <a href="/">
                   <button class='boutonDemo'>Démonstration</button>
                 </a>
-                <a href="https://github.com/MarcOlivier91/FanTour">
+                <a href="https://github.com/MarcOlivier91/FanTour" target="_blank" rel="noopener noreferrer">
                   <button class='boutonSourceCode'>Code Source</button>
                   </a>
               </div>

@@ -3,11 +3,11 @@ import {Link} from 'react-scroll'
 
 const Navbar = () => {
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 py-4 bg-slate-600'>
+    <div className='fixed w-full h-[60px] flex justify-between items-center px-4 py-4 bg-slate-600 z-10'>
         <ul className='text-white flex '>
           <li class='elementsNavigation'>
 
-            <Link to="home" smooth={true} duration={600}>
+            <Link to="home" smooth={true} offset={50} duration={600}>
               Moi
               </Link>
             </li>
