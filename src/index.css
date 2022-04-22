@@ -22,7 +22,7 @@
 }
 
 .elementsNavigation {
-    @apply hover:text-gray-300 duration-200
+    @apply hover:text-gray-300 duration-200 cursor-pointer
 }
 
 .nomTechno {

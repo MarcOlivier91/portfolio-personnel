@@ -6,7 +6,7 @@ import MentorGoal_Img from '../assets/Mentor Goal_Screenshot.png'
 
 const Projets = () => {
   return (
-    <div name='projets' className='w-full md:h-screen text-white bg-slate-800 pt-44'>
+    <div name='projets' className='w-full md:h-screen text-white bg-slate-800 pt-4'>
         <div class='pageProjets'>
           <div className='pb-8'>
             <p class='titrePage'>Mes Projets <span className='font-bold text-amber-300'>.</span></p>
