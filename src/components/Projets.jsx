@@ -6,7 +6,7 @@ import MentorGoal_Img from '../assets/Mentor Goal_Screenshot.png'
 
 const Projets = () => {
   return (
-    <div name='projets' className='w-full md:h-screen text-white bg-slate-800 pt-4'>
+    <div name='projets' className='w-full md:h-screen text-white bg-slate-800 pt-16'>
         <div class='pageProjets'>
           <div className='pb-8'>
             <p class='titrePage'>Mes Projets <span className='font-bold text-amber-300'>.</span></p>
@@ -23,10 +23,10 @@ const Projets = () => {
               <p className='text-center'>Un site d'e-commence centrée sur la ventes de produits informatiques !</p>
               <div className='flex justify-center'>
                 <a href="/">
-                  <button class='boutonDemo'>Démonstration</button>
+                  <button class='boutonBleu'>Démonstration</button>
                 </a>
                 <a href="https://github.com/MarcOlivier91/Projet-Future-World" target="_blank" rel="noopener noreferrer">
-                  <button class='boutonSourceCode'>Code Source</button>
+                  <button class='boutonJaune'>Code Source</button>
                 </a>
               </div>
               </div>
@@ -38,11 +38,11 @@ const Projets = () => {
               <img className='inset-y-0' src={DragonRush_Img} alt="Projet Future World" />
               <p className='text-center'>Un mini-jeu assez simple type clicker game qui repose sur le calcul et la gestion de données.</p>
               <div className='flex justify-center'>
-                <a href="https://marcolivier91.github.io/DragonRush-ClickerGame/" target="_blank" rel="noopener noreferrer">
-                  <button class='boutonDemo'>Démonstration</button>
+                <a href="https://marcolivier91.github.io/DragonRush/" target="_blank" rel="noopener noreferrer">
+                  <button class='boutonBleu'>Démonstration</button>
                 </a>
-                <a href="https://github.com/MarcOlivier91/DragonRush-ClickerGame" target="_blank" rel="noopener noreferrer">
-                  <button class='boutonSourceCode'>Code Source</button>
+                <a href="https://github.com/MarcOlivier91/DragonRush" target="_blank" rel="noopener noreferrer">
+                  <button class='boutonJaune'>Code Source</button>
                 </a>
               </div>
               </div>
@@ -57,10 +57,10 @@ const Projets = () => {
                             du fameux film d'animation 'Your Name'</p>
               <div className='flex justify-center'>
                 <a href="/">
-                  <button class='boutonDemo'>Démonstration</button>
+                  <button class='boutonBleu'>Démonstration</button>
                 </a>
                 <a href="https://github.com/MarcOlivier91/FanTour" target="_blank" rel="noopener noreferrer">
-                  <button class='boutonSourceCode'>Code Source</button>
+                  <button class='boutonJaune'>Code Source</button>
                   </a>
               </div>
               </div>

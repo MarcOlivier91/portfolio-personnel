@@ -11,7 +11,7 @@ import Python_Logo from '../assets/python logo.png'
 const Experience = () => {
   return (
     <div name="exp" className='bg-slate-800 text-gray-100'>
-        <div className='max-w-[1000px] mx-auto p-4 flex flex-col w-full h-full'>
+        <div className='max-w-[1000px] mx-auto pt-16 flex flex-col w-full h-full py-44'>
             <div>
                 <p class='titrePage'>Mon expérience<span className='font-bold text-amber-300'>.</span></p>
                 <p className='text-2xl font-medium py-4'>Voici les technologies que j'ai pu utiliser jusqu'a maintenant ;</p>

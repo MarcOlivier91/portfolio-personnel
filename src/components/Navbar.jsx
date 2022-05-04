@@ -26,7 +26,12 @@ const Navbar = () => {
             </Link>
           </li>
 
-          <li class='elementsNavigation'>Me contacter</li>
+          <li class='elementsNavigation'>
+
+            <Link to="contact" smooth={true} duration={600}
+              >Me Contacter
+            </Link>
+          </li>
         </ul>
     </div>
   )
