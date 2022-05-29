@@ -1,26 +1,24 @@
 {
   "files": {
     "main.css": "/MarcOlivier91/portfolio-personnel/static/css/main.59450333.css",
-    "main.js": "/MarcOlivier91/portfolio-personnel/static/js/main.2f7c5b72.js",
+    "main.js": "/MarcOlivier91/portfolio-personnel/static/js/main.55e4668b.js",
     "static/media/DragonRush_Screenshot.png": "/MarcOlivier91/portfolio-personnel/static/media/DragonRush_Screenshot.8ac0fddd1b3192a9f005.png",
     "static/media/Future_World_Screenshot.png": "/MarcOlivier91/portfolio-personnel/static/media/Future_World_Screenshot.f5912f43b307baf30c35.png",
     "static/media/Fan Tour_Screenshot.png": "/MarcOlivier91/portfolio-personnel/static/media/Fan Tour_Screenshot.2c636b7ba700520623fb.png",
-    "static/media/CV_Marc-Olivier.pdf": "/MarcOlivier91/portfolio-personnel/static/media/CV_Marc-Olivier.375c515ebaac8576ab3e.pdf",
     "static/media/React-icon.svg.png": "/MarcOlivier91/portfolio-personnel/static/media/React-icon.svg.f6b89d232c9bc9f828e5.png",
     "static/media/1200px-Laravel.svg.png": "/MarcOlivier91/portfolio-personnel/static/media/1200px-Laravel.svg.5e0f331fe010a29a1aed.png",
     "static/media/Tailwind_CSS_Logo.svg.png": "/MarcOlivier91/portfolio-personnel/static/media/Tailwind_CSS_Logo.svg.36b2728bf0d14b7b7576.png",
     "static/media/Photo_Marc-Olivier.jpg": "/MarcOlivier91/portfolio-personnel/static/media/Photo_Marc-Olivier.3a9e9bb7b8cd311d4eb9.jpg",
     "static/media/CSS3_logo.svg.png": "/MarcOlivier91/portfolio-personnel/static/media/CSS3_logo.svg.84de5dab5fab27f4161c.png",
     "static/media/logo-javascript-logo.png": "/MarcOlivier91/portfolio-personnel/static/media/logo-javascript-logo.5cd895a3689b74ef40ee.png",
-    "static/media/Mentor Goal_Screenshot.png": "/MarcOlivier91/portfolio-personnel/static/media/Mentor Goal_Screenshot.384569708ad667256e43.png",
     "static/media/png": "/MarcOlivier91/portfolio-personnel/static/media/5847f5bdcef1014c0b5e489c.ff3cf75e3b7cbb4ea77c.png",
     "static/media/Moby-logo.webp": "/MarcOlivier91/portfolio-personnel/static/media/Moby-logo.97f28ff91e8bcb695d21.webp",
     "index.html": "/MarcOlivier91/portfolio-personnel/index.html",
     "main.59450333.css.map": "/MarcOlivier91/portfolio-personnel/static/css/main.59450333.css.map",
-    "main.2f7c5b72.js.map": "/MarcOlivier91/portfolio-personnel/static/js/main.2f7c5b72.js.map"
+    "main.55e4668b.js.map": "/MarcOlivier91/portfolio-personnel/static/js/main.55e4668b.js.map"
   },
   "entrypoints": [
     "static/css/main.59450333.css",
-    "static/js/main.2f7c5b72.js"
+    "static/js/main.55e4668b.js"
   ]
 }
