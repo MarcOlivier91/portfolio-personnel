@@ -10,9 +10,9 @@ const Home = () => {
               <span><img className='w-40 mx-auto rounded-full shadow-sm' src={Photo} alt="Visage de Marc-Olivier" /></span>
             </h1> 
             <p className='font-light text-amber-50 text-3xl test-justify'>
-              J'ai 20 ans et je suis un étudiant à l'école ETNA.
+              J'ai 21 ans et je suis un étudiant à l'école ETNA.
               Afin de poursuivre mes études et de monter en compétence,
-              je suis à la recherche d'une alternance qui débute en Juillet 2022 pour une 
+              je suis à la recherche d'une alternance dans le domaine du développment web pour une 
               durée de 7 mois.
 
             </p>
